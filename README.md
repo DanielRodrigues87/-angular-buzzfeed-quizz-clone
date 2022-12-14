@@ -4,6 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Descrição
 
-Projeto de repordução de um quiz do Buzzfeed, desenvolvido com o FrameWork Angular. Para o Bootcamp Cloud Fullstack Bootcamp - Warburg Pincus.
+Projeto de reprodução de um quiz do Buzzfeed, desenvolvido com o FrameWork Angular. Para o Bootcamp Cloud Fullstack Bootcamp - Warburg Pincus.
 
 
